@@ -12,7 +12,7 @@ https://github.com/steve1442/slam-robot
 Designed and built a robot to be used as a ros2 and slam testbed
 
 # FPGA Bomber Man
-https://youtu.be/mAn4MAasJJY
+
 [![Video Title](https://img.youtube.com/vi/mAn4MAasJJY/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/mAn4MAasJJY))
 https://github.com/steve1442/FPGA-Bomberman
 
