@@ -1,6 +1,6 @@
 # Steven Keller (steve1442)
 
-
+![](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
 
 # Unitree Go1 Gait Development 
 [![Watch the video](https://raw.githubusercontent.com/steve1442/steve1442/Unitree-Go1-Gait-Development/thumbnail.jpg)][(https://github.com/steve1442/steve1442/blob/main/Unitree%20Go1%20Gait%20Development/trot-2024-12-09%2019-40-28.mp4)]
