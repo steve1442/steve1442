@@ -3,7 +3,7 @@
 
 
 # Unitree Go1 Gait Development 
-
+[![Watch the video](https://raw.githubusercontent.com/steve1442/steve1442/Unitree-Go1-Gait-Development/thumbnail.jpg)][(https://github.com/steve1442/steve1442/blob/main/Unitree%20Go1%20Gait%20Development/trot-2024-12-09%2019-40-28.mp4)]
 Worked on a team of masters students to develop our own Walk, Trot, Canter, and Gallop gaits and feedback loops for the Unitree GO 1. 
 
 # SLAM Robot testbed
